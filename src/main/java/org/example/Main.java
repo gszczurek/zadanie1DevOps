@@ -5,5 +5,11 @@ public class Main {
         System.out.println("LAB2");
 
         System.out.println("213123123213");
+        System.out.println("213123123213");
+        System.out.println("213123123213");
+        System.out.println("213123123213");
+        System.out.println("213123123213");
+        System.out.println("213123123213");
+        System.out.println("213123123213");
     }
 }
